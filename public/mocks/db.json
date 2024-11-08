@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "doctor123",
+      "password": "password123",
+      "role": "doctor",
+      "token": "doctor-jwt-token"
+    },
+    {
+      "id": 2,
+      "username": "patient456",
+      "password": "password456",
+      "role": "patient",
+      "token": "patient-jwt-token"
+    }
+  ]
+}
